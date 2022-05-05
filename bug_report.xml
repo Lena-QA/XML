@@ -1,1 +1,10 @@
-
+<xml>
+ <ID>1234567</ID>
+ <Title>"The error 404 occurs when clicking on Shopping bag"</Title> 
+ <Severity>"Major"</Severity>
+ <Priority>"High"</Priority
+ <Environment>"Samsung Galaxy S10e, Android 12"</Environment>  
+ <Steps_to_Reproduce>"Go to the product page, add the product to the shopping bag, click shopping bag icon on the top right"</Steps_to_Reproduce>
+ <Actual_Result>"Error 404"</Actual_Result> 
+ <Expected_Result>"The list of chosen products"</Expected_Result>
+ <Attachment>"Screenshot"</Attachment>
